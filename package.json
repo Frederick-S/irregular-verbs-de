@@ -1,0 +1,16 @@
+{
+  "name": "irregular-verbs-de",
+  "version": "0.1.0",
+  "description": "Conjugation of irregular verbs in German.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frederick-S/irregular-verbs-de"
+  },
+  "author": "Frederick-S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frederick-S/irregular-verbs-de/issues"
+  },
+  "homepage": "https://github.com/Frederick-S/irregular-verbs-de"
+}
