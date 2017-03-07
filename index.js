@@ -516,8 +516,8 @@ module.exports = {
     },
     "scheißen": {
         "infinitive": "scheißen",
-        "pastTense": "schoss",
-        "presentPerfect": "geschossen"
+        "pastTense": "schiss",
+        "presentPerfect": "geschissen"
     },
     "schelten": {
         "infinitive": "schelten",
@@ -533,6 +533,11 @@ module.exports = {
         "infinitive": "schieben",
         "pastTense": "schob",
         "presentPerfect": "geschoben"
+    },
+    "schießen": {
+        "infinitive": "schießen",
+        "pastTense": "schoss",
+        "presentPerfect": "geschossen"
     },
     "schlafen": {
         "infinitive": "schlafen",
