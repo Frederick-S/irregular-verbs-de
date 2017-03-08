@@ -1,6 +1,6 @@
 {
   "name": "irregular-verbs-de",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Conjugation of irregular verbs in German.",
   "main": "index.js",
   "repository": {
