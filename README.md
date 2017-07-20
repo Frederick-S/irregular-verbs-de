@@ -1,4 +1,6 @@
 # Introduction
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/irregular-verbs-de.svg)](https://greenkeeper.io/)
 Conjugation of irregular verbs in German.
 # Usage
 ```js
